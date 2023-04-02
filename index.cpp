@@ -14,4 +14,7 @@ class student{
         finals_grade = Grade;
         id = ID;
     }
+    int get_id(){
+        return id;
+    }
 };
